@@ -21,7 +21,8 @@ Um aplicativo mobile intuitivo desenvolvido com React Native (Expo) que permite 
 Para rodar este projeto em seu ambiente de desenvolvimento, siga os passos abaixo:
 
 * Clone o repositório:
-git clone (https://github.com/renatoloreto/app-nome-react-expo.git)
+* 
+git clone https://github.com/renatoloreto/app-nome-react-expo.git
 
 * Instale as dependências:
 
